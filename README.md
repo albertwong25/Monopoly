@@ -1,2 +1,2 @@
 # Monopoly
-Monopoly written in Perl
+Monopoly written in Perl and TK module
