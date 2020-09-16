@@ -1,4 +1,4 @@
-# contributing
+# Contributing
 
 Thanks to all of them for collaborating in the project.
 
